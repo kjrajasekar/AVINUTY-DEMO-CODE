@@ -1,0 +1,22 @@
+h1{
+    background-color: green;
+    color: white;
+}
+p{
+    background-color: pink;
+}
+
+/* class selector  */
+.bg-purple{
+    background-color: purple;
+    color: yellow;
+}
+
+.ft-m{
+    font-size: medium;
+}
+
+/* id selector  */
+#name{
+    font-size: 28px;
+}
